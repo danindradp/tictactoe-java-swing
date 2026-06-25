@@ -75,7 +75,7 @@ java -cp ".;lib/mysql-connector-j-x.x.x.jar;out/" Main
 - Drive: https://drive.google.com/drive/folders/1jUxL3ccTA74VMnNMEU2RKXClWjKcxmAr?usp=drive_link
 
 ## Video Link
-- YouTube: _(Tambahkan link YouTube di sini)_
+- YouTube: https://youtu.be/p8aYXbSBSoU
 
 ## GitHub Link
 - Repository: https://github.com/danindradp/tictactoe-java-swing
