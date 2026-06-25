@@ -72,10 +72,10 @@ java -cp ".;lib/mysql-connector-j-x.x.x.jar;out/" Main
 | `TopScorersFrame` | Menampilkan Top 5 pemain menggunakan JTable |
 
 ## Screenshots
-_(Tambahkan screenshot di sini setelah program berjalan)_
+- Drive: https://drive.google.com/drive/folders/1jUxL3ccTA74VMnNMEU2RKXClWjKcxmAr?usp=drive_link
 
 ## Video Link
 - YouTube: _(Tambahkan link YouTube di sini)_
 
 ## GitHub Link
-- Repository: _(Tambahkan link repository di sini)_
+- Repository: https://github.com/danindradp/tictactoe-java-swing
